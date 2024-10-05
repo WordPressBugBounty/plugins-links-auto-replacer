@@ -1,0 +1,1 @@
+# plugins-links-auto-replacer
